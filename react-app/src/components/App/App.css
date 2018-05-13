@@ -1,0 +1,35 @@
+.head-section {
+    padding: 45px;
+    background-color: #0A1D3B;
+    text-align: center;
+    color:white;
+}
+.head-title {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.head-subtitle-tail {
+    color:#75C75E;
+
+}
+.pin-section {
+    margin-top: 45px;
+}
+.lower-section {
+    padding: 45px;
+    background-color: #EDFBFE;
+    text-align: center;
+    color:white;
+}
+
+.lower-head-title {
+    margin-top: 45px;
+    font-weight: lighter;
+    text-transform: uppercase;
+    color: #0A1D3B;
+}
+
+.lower-head-subtitle {
+    color:#0A1D3B ;
+}
